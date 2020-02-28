@@ -8,3 +8,8 @@ bbox, label, conf = cv.detect_common_objects(im)
 output_image = draw_bbox(im, bbox, label, conf)
 plt.imshow(output_image)
 plt.show()
+
+
+
+
+bit.ly/LL-APSIT
